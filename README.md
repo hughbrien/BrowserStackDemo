@@ -33,13 +33,17 @@ First tried NodeJS plugin but ran into a problem getting the seleniumm-web-drive
 
 Switched to Bash Script build type
 
-` cd /Users/hughbrien/Documents/Software/MintangileProducts/browser-stack-test
-` node ./simpletest.js
-
+``` 
+cd /Users/hughbrien/Documents/Software/MintangileProducts/browser-stack-test
+node ./simpletest.js
+```
 
 # Other Discoveries
 
-Since I misread the directions, I now know everything about the  **selenium-ide-runner** 
+Since I misread the directions, I now know everything about the  
+```
+**selenium-ide-runner** 
+```
 
 # Results
 
