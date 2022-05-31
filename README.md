@@ -1,12 +1,12 @@
 # BrowserStackDemo
-Demo for BrowserStack
+Demo for BrowserStack.  
 
 # Challenge Exam
 - Write a Selenium test suite using any language/framework and trigger it from a Jenkins server
 - The suite must do the following
 - Run on BrowserStack Automate (you will need to create a free trial)
 - Contain 3 separate assertion
-= Run across 5 browsers in parallel
+- Run across 5 browsers in parallel
 
 When complete, please share your suite as a Github repo and provide evidence of your Jenkins job - either the pipeline code or screenshot of the build configuration.
 
@@ -40,7 +40,7 @@ node ./simpletest.js
 
 # Other Discoveries
 
-Since I misread the directions, I now know everything about the  [selenium-ide-runner] https://www.browserstack.com/docs/automate/selenium/selenium-ide#getting-started-with-selenium-ide 
+Since I misread the directions, I now know almost everything about : [selenium-ide-runner](https://www.browserstack.com/docs/automate/selenium/selenium-ide#getting-started-with-selenium-ide).  With a little more time, I think I could some intesting things with that Javascript library. 
 
 
 # Results
