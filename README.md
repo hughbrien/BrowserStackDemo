@@ -40,10 +40,8 @@ node ./simpletest.js
 
 # Other Discoveries
 
-Since I misread the directions, I now know everything about the  
-```
-[selenium-ide-runner] https://www.browserstack.com/docs/automate/selenium/selenium-ide#getting-started-with-selenium-ide 
-```
+Since I misread the directions, I now know everything about the  [selenium-ide-runner] https://www.browserstack.com/docs/automate/selenium/selenium-ide#getting-started-with-selenium-ide 
+
 
 # Results
 
