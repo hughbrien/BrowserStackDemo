@@ -25,5 +25,5 @@ When complete, please share your suite as a Github repo and provide evidence of 
 - Other discoveries : Figured out 
 
 
-![Parallel Test][https://github.com/hughbrien/BrowserStackDemo/blob/main/basictests.jpg]
-![Jenkins Run][https://github.com/hughbrien/BrowserStackDemo/blob/main/jenkinsrun.jpg]
+![Parallel Test](https://github.com/hughbrien/BrowserStackDemo/blob/main/basictests.jpg)
+![Jenkins Run](https://github.com/hughbrien/BrowserStackDemo/blob/main/jenkinsrun.jpg)
