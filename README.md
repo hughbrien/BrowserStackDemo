@@ -12,25 +12,34 @@ When complete, please share your suite as a Github repo and provide evidence of 
 
 # Actions
 
-- Created a basic script that would invoke selenium on BrowserStack.  
+- Created a basic script that would invoke selenium on BrowserStack. I lifted one of the example scripts from the documentation and made some modifications. It was primarily a mobile app that I tweaked to work with broswers : 
+```
+    let driver = new webdriver.Builder()
+        .usingServer(`https://hughbrien_dw8QrW:2m74bzcUZxAzcqanNMMU@hub.browserstack.com/wd/hub`)
+        .withCapabilities({
+            ...capabilities,
+            ...capabilities['browser'] && { browserName: capabilities['browser']}  // Because NodeJS language binding requires browserName to be defined
+        })
+        .build();
+ ```
 
-- Created a NodeJS script with 5 capability configuration for different browsers 
+- Created a [NodeJS script](https://github.com/hughbrien/BrowserStackDemo/blob/main/demotest.js) with 5 capability configuration for different browsers 
 
 - Installed Jenkins.  Installed BrowsersStack Plugin 
 
 - Experimented with various build method within Jenkins
 
-First tried NodeJS plugin but ran into a problem getting the seleniumm-web-driver to get recognized.
+First tried NodeJS plugin but ran into a problem getting the seleniumm-web-driver to get recognized with Jenkins was invoking it. I am pretty sure it's ac configuration issue somewhere. 
 
 Switched to Bash Script build type
 
 ` cd /Users/hughbrien/Documents/Software/MintangileProducts/browser-stack-test
 ` node ./simpletest.js
 
+
 # Other Discoveries
 
-Since I misread the directions, I know everything about the ` selenium-ide-runner
-
+Since I misread the directions, I now know everything about the  **selenium-ide-runner** 
 
 # Results
 
