@@ -45,9 +45,7 @@ Since I misread the directions, I now know almost everything about : [selenium-i
 
 # Results
 
-I got this completed but I still I am missing something 
-
- [Test Results](https://automate.browserstack.com/dashboard/v2/public-build/QzBJNHFzWnFvZ0xRVHMyZVZsbFNQcWsyREorRjd2WUxEMTJFK3QvaXlpdUc0NmdBdkk3M3UzOC8yaTBlRjE2dTRMdkZhM2tyMC9qelh4dXFZYmlzOGc9PS0tTy9nV09LaTRjdDFDV3Y2Rmw4bVVjQT09--0f37ce24684f51400608f7ac84a86c1c08e8e860) for the Demo  
+I got this completed but I still I am missing something : [Test Results](https://automate.browserstack.com/dashboard/v2/public-build/QzBJNHFzWnFvZ0xRVHMyZVZsbFNQcWsyREorRjd2WUxEMTJFK3QvaXlpdUc0NmdBdkk3M3UzOC8yaTBlRjE2dTRMdkZhM2tyMC9qelh4dXFZYmlzOGc9PS0tTy9nV09LaTRjdDFDV3Y2Rmw4bVVjQT09--0f37ce24684f51400608f7ac84a86c1c08e8e860) for the Demo  
 
 
 # Screen Shots and Logs 
