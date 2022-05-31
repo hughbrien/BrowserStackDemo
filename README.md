@@ -2,11 +2,11 @@
 Demo for BrowserStack
 
 # Challenge Exam
-1. Write a Selenium test suite using any language/framework and trigger it from a Jenkins server
-2. The suite must do the following
-  a. Run on BrowserStack Automate (you will need to create a free trial)
-  b. Contain 3 separate assertion
-  c. Run across 5 browsers in parallel
+- Write a Selenium test suite using any language/framework and trigger it from a Jenkins server
+- The suite must do the following
+- Run on BrowserStack Automate (you will need to create a free trial)
+- Contain 3 separate assertion
+= Run across 5 browsers in parallel
 
 When complete, please share your suite as a Github repo and provide evidence of your Jenkins job - either the pipeline code or screenshot of the build configuration.
 
