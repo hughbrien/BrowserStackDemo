@@ -1,2 +1,3 @@
 # BrowserStackDemo
 Demo for BrowserStack
+[Test Results](https://automate.browserstack.com/dashboard/v2/public-build/Uk1WTFpkYTBkZ1EzeGVSUmxBL2tndzdvMWErRm5Bc2RhK01KODU3dllib1JTL1ZPREFhMzVFeXArcnJYOEV1cWU0T2ViTUtJeXRPeFdLRjVHWDR6c1E9PS0tc2U3Q1lYUjEyM2hTdSs4d2VibzFoZz09--bb9f9a98ba8fe2037ab8eb3fb29325ce7e78dc7f) for the Demo
