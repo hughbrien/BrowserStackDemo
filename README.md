@@ -98,3 +98,32 @@ Node.js v18.1.0
 Build step 'Execute NodeJS script' marked build as failure
 Finished: FAILURE
 ```
+
+# Debugging Process 
+
+Testing NodeJS Plugin was successful with the BrowserStack Plugin.  Need to figure out how to get the NodeJS PlugIn to accept libraries :
+- Created a new runtime instance and configured it to load the missing module "selenium-webdriver"
+
+
+
+
+```
+Started by user Hugh Brien
+Running as SYSTEM
+Building on the built-in node in workspace /Users/hughbrien/.jenkins/workspace/BasicNodeJS_Script
+[BrowserStack] BROWSERSTACK_USERNAME=hughbrien_dw8QrW
+[BrowserStack] BROWSERSTACK_ACCESS_KEY=********************
+[BrowserStack] BROWSERSTACK_BUILD=jenkins-BasicNodeJS_Script-14
+[BrowserStack] BROWSERSTACK_BUILD_NAME=jenkins-BasicNodeJS_Script-14
+[BrowserStack] BROWSERSTACK_LOCAL=false
+[BrowserStack] BROWSERSTACK_USERNAME=hughbrien_dw8QrW
+[BrowserStack] BROWSERSTACK_ACCESS_KEY=********************
+[BrowserStack] BROWSERSTACK_BUILD=jenkins-BasicNodeJS_Script-14
+[BrowserStack] BROWSERSTACK_BUILD_NAME=jenkins-BasicNodeJS_Script-14
+[BrowserStack] BROWSERSTACK_LOCAL=false
+[BasicNodeJS_Script] $ /Users/hughbrien/.jenkins/tools/jenkins.plugins.nodejs.tools.NodeJSInstallation/BrowserStack/bin/node /var/folders/dh/ch_vndvs5ms_2r80xngww5100000gn/T/jenkins1425995230794121790.js
+hello world
+What are you doing
+Finished: SUCCESS
+```
+
