@@ -75,7 +75,4 @@ async function runTestWithCaps (capabilities) {
     await driver.quit();
 }
 runTestWithCaps(capabilities1);
-runTestWithCaps(capabilities2);
-runTestWithCaps(capabilities3);
-runTestWithCaps(capabilities4);
-runTestWithCaps(capabilities5);
+
